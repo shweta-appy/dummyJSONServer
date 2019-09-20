@@ -1,0 +1,48 @@
+{
+	"movie": [{
+			"Hindi": [{
+					"hindi1": "hindiname1",
+					"actor1": "actorHindiName1"
+				},
+				{
+					"hindi2": "hindiname2",
+					"actor2": "actorHindiName2"
+				},
+				{
+					"hindi3": "hindiname3",
+					"actor3": "actorHindiName3"
+				}
+			]
+		},
+		{
+			"English": [{
+					"english1": "englishname1",
+					"actor1": "actorEnglishName1"
+				},
+				{
+					"english2": "englishname2",
+					"actor2": "actorEnglishName2"
+				},
+				{
+					"english3": "englishname3",
+					"actor2": "actorEnglishName3"
+				}
+			]
+		},
+		{
+			"Bangla": [{
+					"bangla1": "banglaname1",
+					"actor1": "actorbanglaName1"
+				},
+				{
+					"bangla2": "banglaname2",
+					"actor2": "actorbanglaName2"
+				},
+				{
+					"bangla3": "banglaname3",
+					"actor3": "actorbanglaName3"
+				}
+			]
+		}
+	]
+}
